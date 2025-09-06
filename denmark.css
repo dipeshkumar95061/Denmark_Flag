@@ -1,0 +1,24 @@
+.card1, .card2 ,.card3, .card4{
+	background-color: red;
+
+}
+.card1, .card3{
+	width: 25vw;
+	height: 35vh;
+	display: inline-block;
+
+
+}
+.card2,.card4{
+	width: 50vw ;
+	height: 35vh;
+	display: inline-block;
+	margin-left: 22.2vw;
+	padding-right: 1vw;
+}
+*{
+	margin: 0px;
+}
+.card3,.card4{
+	margin-top: 29vh;
+}
